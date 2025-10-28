@@ -5,8 +5,8 @@ title: Mi Blog Personal
 email: tu-email@ejemplo.com
 description: >- # Descripción que aparecerá en los motores de búsqueda
   El lugar donde escribo sobre tecnología, desarrollo y mis proyectos.
-baseurl: "" # Deja esto vacío
-url: "https://TU_NOMBRE_DE_USUARIO.github.io" # Tu URL completa
+baseurl: "/blog" # <--- CAMBIA ESTO: Debe ser el nombre de tu repositorio
+url: "https://agussvgomez.github.io" # <--- CAMBIA ESTO: Tu dominio principa
 
 # ==================================
 # Configuración del Tema
