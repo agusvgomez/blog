@@ -12,7 +12,7 @@ url: "https://agussvgomez.github.io" # <--- CAMBIA ESTO: Tu dominio principa
 # Configuración del Tema
 # ==================================
 # Aquí definimos el tema. Usaremos 'minimal' como ejemplo.
-theme: cayman 
+theme: pages-themes/cayman 
 plugins:
   - jekyll-feed
 
