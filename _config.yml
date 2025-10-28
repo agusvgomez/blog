@@ -1,0 +1,23 @@
+# ==================================
+# Configuración Básica del Blog
+# ==================================
+title: Mi Blog Personal
+email: tu-email@ejemplo.com
+description: >- # Descripción que aparecerá en los motores de búsqueda
+  El lugar donde escribo sobre tecnología, desarrollo y mis proyectos.
+baseurl: "" # Deja esto vacío
+url: "https://TU_NOMBRE_DE_USUARIO.github.io" # Tu URL completa
+
+# ==================================
+# Configuración del Tema
+# ==================================
+# Aquí definimos el tema. Usaremos 'minimal' como ejemplo.
+theme: jekyll-theme-minimal 
+plugins:
+  - jekyll-feed
+
+# ==================================
+# Configuración de Google Analytics
+# ==================================
+# Reemplaza G-XXXXXXXXXX con tu ID de Google Analytics
+google_analytics: G-XXXXXXXXXX
