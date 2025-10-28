@@ -3,16 +3,15 @@
 # ==================================
 title: Mi Blog Personal
 email: tu-email@ejemplo.com
-description: >- # Descripción que aparecerá en los motores de búsqueda
+description: >-
   El lugar donde escribo sobre tecnología, desarrollo y mis proyectos.
-baseurl: "/blog" # <--- CAMBIA ESTO: Debe ser el nombre de tu repositorio
-url: "https://agussvgomez.github.io" # <--- CAMBIA ESTO: Tu dominio principa
+baseurl: "/blog"
+url: "https://agussvgomez.github.io"
 
 # ==================================
 # Configuración del Tema
 # ==================================
-# Aquí definimos el tema. Usaremos 'minimal' como ejemplo.
-theme: pages-themes/cayman 
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -20,5 +19,4 @@ plugins:
 # ==================================
 # Configuración de Google Analytics
 # ==================================
-# Reemplaza G-XXXXXXXXXX con tu ID de Google Analytics
 google_analytics: G-XXXXXXXXXX
