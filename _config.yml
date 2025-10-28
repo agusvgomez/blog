@@ -15,6 +15,7 @@ url: "https://agussvgomez.github.io" # <--- CAMBIA ESTO: Tu dominio principa
 theme: pages-themes/cayman 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # ==================================
 # Configuración de Google Analytics
