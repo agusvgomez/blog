@@ -12,7 +12,7 @@ url: "https://TU_NOMBRE_DE_USUARIO.github.io" # Tu URL completa
 # Configuración del Tema
 # ==================================
 # Aquí definimos el tema. Usaremos 'minimal' como ejemplo.
-theme: tactile 
+theme: cayman 
 plugins:
   - jekyll-feed
 
